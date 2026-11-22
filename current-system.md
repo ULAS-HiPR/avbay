@@ -6,8 +6,7 @@ what is true now. Nothing is designed, built or flown yet.
 Owner: Alex. Helpers: Rory. Next milestone: Bay mockup with mechanical; access panel requirements captured by 14 Dec.
 
 Seeded from the [Notion brief](https://app.notion.com/p/41ecc5f72fe281538883e08f6f233f37) and [access panel brief](https://app.notion.com/p/41ecc5f72fe281b7bb76e33f9f001313) and from Ogma2's decisions as they stood on
-22 November. Where they disagree, Ogma2's decisions win, and the difference is
-listed below.
+22 November. Where they disagree, Ogma2's decisions win.
 
 ## Purpose
 
@@ -50,10 +49,6 @@ LV-0780–0820 (RF window); LV-0240 (each recovery chain on its own battery); LV
 3. The access panel: switches, plugs, labels, its position and height
 4. The umbilical and the charging bus across every joint
 5. Harness drawings, tug and continuity tests
-
-## Known discrepancy
-
-The access panel Notion brief (edited 20 Nov) says the enable loops are Gecko 2-contact (D-19Nov.5). Ogma2's D-22Nov.18 moved Burrito's J103 to a Molex Micro-Fit 3.0 two-circuit header, with Churro's J103 and J104 following unless Seán says otherwise. This repository follows D-22Nov.18; the Notion page needs the same fix.
 
 ## Timeline
 
